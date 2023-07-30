@@ -11,7 +11,6 @@
 For this lab we couldn't use or configure some services as we wish to use, such as SQS FIFO, and publishing through CLI SNS Lambda function using the provided `LabRole` assinged to us with limited permissions and capabilties, So we had to make a new account from scratch and create new roles with extra or full permissions, our colleague Hasan created the account, then Farah&Rama&Ehab helped him making the new roles and continued working on the whole code structure to make it functioning as required.
 
 ## UML
-
 <img width="392" alt="image" src="https://github.com/FarrahYasin/airline-cloud/assets/117269271/d728e732-3612-4125-84f0-057ecc260162">
 
 ## Console ScreenShots
