@@ -12,7 +12,7 @@ For this lab we couldn't use or configure some services as we wish to use, such 
 
 ## UML
 
-<img width="225" alt="image" src="https://github.com/FarrahYasin/airline-cloud/assets/117269271/8fb32062-cb1d-4a47-9cd3-8b42ed2dc561">
+<img width="392" alt="image" src="https://github.com/FarrahYasin/airline-cloud/assets/117269271/d728e732-3612-4125-84f0-057ecc260162">
 
 ## Console ScreenShots
 
