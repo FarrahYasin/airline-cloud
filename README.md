@@ -1,7 +1,5 @@
 # Airline-cloud
 
-# Airline-cloud
-
 - We are going to start by having a lambda function called handleFlights, this function includes using of the SNS package after importing the aws-sdk library, we used the ARN of the SNS topic inside the SNS instance as a payload of a message and the topic. then once the function is triggered it will send an event to the SNS system we already made on AWS console.
 
 - Next step we created SQS of FIFO type, to collect data sent from the SNS system so the other Lambda functions of a Pilot & System could retrieve and console.log the flights updated and informations based on each flight take offs and arrivals on certain times and delay(around 8 second between each).
